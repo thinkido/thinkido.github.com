@@ -1,2 +1,2 @@
 # thinkido.github.com
-个人简历
+姜闹钟个人简历，个人网站:http://www.thinkido.com
